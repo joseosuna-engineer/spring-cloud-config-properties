@@ -1,0 +1,16 @@
+
+---
+
+spring:
+  profiles: data
+service:
+  servicename:
+    endpint: data
+
+---
+
+spring:
+  profiles: data
+service:
+  servicename:
+    endpint: data

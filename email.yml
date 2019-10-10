@@ -1,0 +1,11 @@
+
+spring:
+  profiles: data
+config:
+  USER_POOL_ID : 'data'
+  APP_CLIENT_ID  : 'data'
+  EMAIL_USER: 'data'
+  EMAIL_PASS : 'data'
+  EMAIL_SMTP : 'data'
+  EMAIL_PORT : 558585
+  EMAIL_FROM: 'data'
